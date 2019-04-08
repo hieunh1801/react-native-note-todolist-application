@@ -1,0 +1,3 @@
+rootProject.name = 'NodeApp'
+
+include ':app'
